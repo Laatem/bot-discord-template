@@ -56,7 +56,7 @@ fichier `mpmoi.js`
 const PREFIX = process.env.PREFIX;
 module.exports = {
     name: `${PREFIX}mpmoi`,
-    description: 'Ceci est une commande exemple qui mp l'utilisateur',
+    description: "Ceci est une commande exemple qui mp l'utilisateur",
     execute(msg, args) {
         msg.author.send("Je suis un bot très performant, je sais mp les utilisateurs !");
     }
