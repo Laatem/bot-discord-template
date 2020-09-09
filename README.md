@@ -94,7 +94,7 @@ Pour éteindre le bot il faut faire le raccourci clavier `CTRL+C` dans le termin
 
 **[Node.JS](https://nodejs.org/dist/latest-v12.x/docs/api/)** - Plateforme logicielle libre en JS orientée vers les applications réseau événementielles
 
-**[dotenv](https://www.npmjs.com/package/dotenv)** - Environnement séparé du code est basé sur la méthode de l'application Twelve-factors
+**[dotenv](https://www.npmjs.com/package/dotenv)** - Environnement séparé du code et basé sur la méthode de l'application Twelve-factors
 
 **[VSCode](https://code.visualstudio.com/docs)** - IDE
 
