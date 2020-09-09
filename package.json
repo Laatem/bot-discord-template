@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "template avec discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://www.youtube.com/channel/UC67N9MzclabzuX9JGM6eoMA",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
