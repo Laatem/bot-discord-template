@@ -6,7 +6,7 @@ Ce projet est un template pour la création d'un mini bot sur discord avec le pl
 
 Avant toute chose il vous faut un éditeur de texte, je vous conseille **[VScode](https://code.visualstudio.com/)**, mais vous pouvez bien évidemment en utiliser un autre tel que **[Sublime Texte](https://www.sublimetext.com/)**, **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[Atom](https://atom.io/)**... 
 
-Une fois votre editeur de texte prêt vous faut **[NodeJS](https://nodejs.org/en/)**, je vous recommande la version LTS.
+Une fois votre editeur de texte prêt, il faut **[NodeJS](https://nodejs.org/en/)**, je vous recommande la version LTS.
 
 Il vous faut créer votre bot via le portail **[Discord Developper](https://discord.com/developers/applications)**. Il faut créer une application, se rendre dans l'onglet "Bot", ajouter un bot. Le nom et l'image importe peu.
 
