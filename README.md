@@ -14,7 +14,7 @@ Il faut maintenant se rendre dans l'onglet **OAuth2**, cocher la case "bot" et s
 
 ## Installation
 
-Une fois votre IDE prêt et NodeJS installer, il faut installer les dépendances qui sont liés au projet, c'est-à-dire les plugins nécessaire à son fonctionnement. Elles sont stockées dans le fichier package.json et sont les suivantes :
+Une fois votre IDE et NodeJS prêt, il faut installer les dépendances qui sont liés au projet, c'est-à-dire les plugins nécessaire à son fonctionnement. Elles sont stockées dans le fichier `package.json` et sont les suivantes :
 ```js
   "dependencies": {
     "discord.js": "^12.3.1",
