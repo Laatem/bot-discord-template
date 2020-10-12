@@ -105,7 +105,9 @@ Pour éteindre le bot il faut faire le raccourci clavier `CTRL+C` dans le termin
 
 ## License
 Copyright (c) 2020 ThomSmart
+
 [MIT](https://choosealicense.com/licenses/mit/)
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
