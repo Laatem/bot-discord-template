@@ -1,5 +1,4 @@
-# OUTDATED. CE PROJET NE FONCTIONNE PLUS AVEC LES NOUVELLES MAJ DE DISCORD.JS - JE FAIS AU PLUS VITE POUR CORRIGER
-# Discord bot template avec discord.js
+# OUTDATED
 
 Ce projet est un template pour la création d'un mini bot sur discord avec le plugin discord.js
 
