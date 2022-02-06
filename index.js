@@ -1,4 +1,3 @@
-// FAUTES
 
 // Création d'une collection contenant les commandes
 bot.commands = new Discord.Collection();
