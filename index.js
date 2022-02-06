@@ -1,16 +1,4 @@
-// Const et require du bot, rien de bien complexe ici
-// require du fichier dotenv qui permet de récupérer le token et prefix
-require('dotenv').config();
-// Déclaration de la constante contenant le prefix
-const prefix = process.env.PREFIX;
-// Déclaration de la constante avec le plugin discord.js
-const Discord = require('discord.js');
-// Déclaration de la constante du client discord
-const bot = new Discord.Client();
-// Déclaration de la constante de ce que contient le dossier commands
-const botCommands = require('./commands');
-// Déclaration d'une constante contenant le token associé à votre bot
-const TOKEN = process.env.TOKEN;
+// FAUTES
 
 // Création d'une collection contenant les commandes
 bot.commands = new Discord.Collection();
